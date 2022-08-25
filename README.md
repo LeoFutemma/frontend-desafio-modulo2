@@ -18,7 +18,7 @@ npm start
 ```
 
 :link: Acessar 
-<a href='https://localhost:3000/' target='_blank'>`https://localhost:3000/`
+<a href='https://localhost:3000/' target='_blank'>`https://localhost:3000/`</a>
 
 Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
 Sua primeira tarefa como desenvolvedor é criar uma aplicação para um serviço de streaming (pense num Netflix).
